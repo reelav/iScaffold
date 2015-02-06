@@ -51,7 +51,7 @@ $active_record = TRUE;
 $db['iscaffold']['hostname'] = 'localhost';
 $db['iscaffold']['username'] = '';
 $db['iscaffold']['password'] = '';
-$db['iscaffold']['database'] = 'books'; 		// Just pick on of your database
+$db['iscaffold']['database'] = ''; 		// Just pick on of your database
 										// you can select later which you want to use
 $db['iscaffold']['dbdriver'] = 'mysql';
 $db['iscaffold']['dbprefix'] = '';
